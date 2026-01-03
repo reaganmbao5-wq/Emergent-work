@@ -71,7 +71,7 @@ const Menu = () => {
                         </div>
                         <div className="flex-shrink-0">
                           <span className="text-xl font-bold text-gray-900">
-                            ${item.price.toFixed(2)}
+                            R{item.price.toFixed(2)}
                           </span>
                         </div>
                       </div>
