@@ -19,6 +19,13 @@ function App() {
         <Reviews />
         <Contact />
       </main>
+      <div className="w-full">
+        <img 
+          src="/images/footer-banner.jpg" 
+          alt="Featured" 
+          className="w-full h-auto object-cover max-h-[500px]"
+        />
+      </div>
       <Footer />
     </div>
   );
