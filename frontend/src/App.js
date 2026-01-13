@@ -19,13 +19,7 @@ function App() {
         <Reviews />
         <Contact />
       </main>
-      <div className="container mx-auto px-4 my-8 flex justify-center">
-        <img
-          src="/images/footer-banner.jpg"
-          alt="Featured"
-          className="max-w-full h-auto rounded-lg"
-        />
-      </div>
+
       <Footer />
     </div>
   );
