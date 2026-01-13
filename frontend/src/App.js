@@ -19,11 +19,11 @@ function App() {
         <Reviews />
         <Contact />
       </main>
-      <div className="w-full">
+      <div className="container mx-auto px-4 my-8 flex justify-center">
         <img
           src="/images/footer-banner.jpg"
           alt="Featured"
-          className="w-full h-auto"
+          className="max-w-full h-auto rounded-lg"
         />
       </div>
       <Footer />
